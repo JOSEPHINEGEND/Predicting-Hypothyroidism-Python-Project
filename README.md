@@ -1,7 +1,6 @@
 # Predicting-Hypothyroidism-Python-Project
-Predicting Hypothyroidism: Python Project IP Week 8 Core
 
-# {A Python Project: Predicting the Results of a Football Game.}
+Predicting Hypothyroidism: Python Project IP Week 8 Core
 
 #### {IP WEEK 8 DATA SCIENCE CORE}, {September, 2019}
 
